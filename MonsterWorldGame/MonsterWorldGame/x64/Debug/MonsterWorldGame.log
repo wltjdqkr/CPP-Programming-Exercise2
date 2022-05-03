@@ -1,0 +1,11 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorldGame.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorldGame.cpp(11,62): error C2664: 'void MonsterWorld::add(Monster &)': 인수 1을(를) 'Monster'에서 'Monster &'(으)로 변환할 수 없습니다.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorldGame.cpp(11,18): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorld.h(47,7): message : 'MonsterWorld::add' 선언을 참조하십시오.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorldGame.cpp(12,62): error C2664: 'void MonsterWorld::add(Monster &)': 인수 1을(를) 'Monster'에서 'Monster &'(으)로 변환할 수 없습니다.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorldGame.cpp(12,18): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorld.h(47,7): message : 'MonsterWorld::add' 선언을 참조하십시오.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorldGame.cpp(13,62): error C2664: 'void MonsterWorld::add(Monster &)': 인수 1을(를) 'Monster'에서 'Monster &'(으)로 변환할 수 없습니다.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorldGame.cpp(13,18): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\right\source\repos\week7_homework1\MonsterWorldGame\MonsterWorldGame\MonsterWorld.h(47,7): message : 'MonsterWorld::add' 선언을 참조하십시오.
